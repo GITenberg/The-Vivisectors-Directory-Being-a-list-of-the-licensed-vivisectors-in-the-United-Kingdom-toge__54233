@@ -1,5 +1,5 @@
 _repo: The-Vivisectors-Directory-Being-a-list-of-the-licensed-vivisectors-in-the-United-Kingdom-toge__54233
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Cobbe, Frances Power
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1904
     gutenberg_agent_id: '45332'
     url: http://www.gutenberg.org/2009/agents/45332
+covers:
+- cover_type: archival
+  image_path: 54233-h/images/cover.jpg
 creator:
   editor:
     agent_name: Bryan, Benjamin
     gutenberg_agent_id: '47776'
     url: http://www.gutenberg.org/2009/agents/47776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54233#The-Vivisectors-Directory-Being-a-list-of-the-licensed-vivisectors-in-the-United-Kingdom-toge_
 gutenberg_issued: '2017-02-25'
 gutenberg_type: Text
 identifiers:
